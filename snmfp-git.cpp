@@ -129,5 +129,7 @@ int main (int argc, char* argv[]) {
  }*/
 //float failP = (float)failingsum/(bsize*10);
 //printf("failure probability = %f\n",failP);
+/* this is a trial for git version control system
+done on purpose*/
  return 0;
 }
